@@ -10,6 +10,10 @@ Original repo is here: [RKLLM](https://github.com/airockchip/rknn-llm)
 
 Initial testing was done using Pelochus' EZ RKNN-LLM container found in this repo: [ezrknn-llm](https://github.com/Pelochus/ezrknn-llm/)
 
+## Documentation
+
+- **[Architecture](ARCHITECTURE.md)** - Pipeline diagrams, data flows, and component interactions
+
 For more information, and useful links, please check out the [RockchipNPU subreddit](https://reddit.com/r/RockchipNPU)
 
 Conversion tests done on consumer grade hardware:
