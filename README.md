@@ -1,5 +1,7 @@
 # EZ-ER-RKLLM-Toolkit
 
+> **Fork Notice:** This is a personal fork of [c0zaut/ez-er-rkllm-toolkit](https://github.com/c0zaut/ez-er-rkllm-toolkit) for RKLLM model conversion on my Turing Pi cluster.
+
 ## Backstory
 
 I got tired of manually downloading models from HuggingFace using git-lfs, authenticating every time, waiting for that finish, and then FINALLY manually inputting the model source and destination into a Python script, and then wait for THAT to finish inside of a Docker container before moving onto the next one and starting the process all over again.
