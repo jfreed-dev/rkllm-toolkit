@@ -170,3 +170,6 @@ CODEX.md
 .gemini/
 .codex/
 ansible/.ansible/
+
+# macOS
+.DS_Store
